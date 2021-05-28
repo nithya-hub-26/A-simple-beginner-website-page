@@ -1,7 +1,4 @@
-- 👋 Hi, I’m nithya
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning information technology
-- 💞️ I’m a beginner soon i will be looking to collaborate in many project in my future
+A simple beginner website in html and css with an icon featured for that website
 
 <!---
 nithya-hub-26/nithya-hub-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
